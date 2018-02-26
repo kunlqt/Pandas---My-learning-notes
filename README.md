@@ -11,6 +11,13 @@ https://github.com/IST256/learn-python/tree/master/content/lessons/12
 
 https://stackoverflow.com/questions/tagged/pandas?sort=frequent&pageSize=15
 
+http://seanlaw.github.io/2016/05/25/pandas-end-to-end-example/
+
+https://github.com/GalvanizeOpenSource/live-coding-pandas-lda/blob/master/live_coding.ipynb
+
+https://github.com/hyunhw/ml-pandas-examples/blob/master/Pandas/1_Pandas_basic.ipynb
+
+
 
 ## Notes:
 
